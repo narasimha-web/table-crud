@@ -1,0 +1,50 @@
+.pen{
+  color:yellow;
+  margin-left: 10px;
+  
+}
+.trash{
+  color:rgb(255, 0, 0);
+margin-left: 15px;
+}
+.firstrow{
+ background-color: #435D7D;
+ height:80px;
+}
+
+.container{
+  box-shadow: 0px 0px 8px 1px;
+  margin-top: 50px;
+}
+.tabledimension{
+  height:400px;
+
+ 
+}
+.title{
+  color:white;
+  padding-top:10px;
+}
+.delete{
+  padding-top:18px;
+
+  
+}
+.sucess{
+  padding-top: 18px;
+  padding-left: 20000px;
+
+}
+
+.plus{
+  border:1px solid;
+  border-radius: 50%;
+  background-color: white;
+  color:green
+}
+.minus{
+  border:1px solid;
+  border-radius: 50%;
+  background-color: white;
+  color:red
+}
